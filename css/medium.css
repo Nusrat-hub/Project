@@ -1,0 +1,11 @@
+@media(min-width:601px)and (max-width: 900px){
+    #header{
+       background-color: #eb7d4b;
+     }
+     .container{
+        width: 90%;
+     }
+     img{
+        max-width: 100%;
+    }
+   }
